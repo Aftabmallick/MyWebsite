@@ -60,6 +60,19 @@ nav .logo{
     font-size: 10vw;
     line-height: 11vw;
 }
+.header .sub{
+    margin-top: 0px;
+    font-size: 5vw;
+}
+.header .proj{
+    margin-top: 0px;
+    font-size: 2vw;
+    margin-bottom: 0px;
+    line-height: 5vw;
+}
+.header .des{
+    margin-top: 0px;
+}
 .btn-container{
     margin: 20px 0;
 }
@@ -94,7 +107,7 @@ nav .logo{
     margin-left: 10px;
 }
 .header p{
-    max-width: 360px;
+    max-width: 450px;
     font-weight: 500;
 }
 .user-img{
@@ -103,7 +116,7 @@ nav .logo{
     position: absolute;
     right: 6%;
     bottom: 0;
-
+    
 }
 
 /*----------animation-------------*/
