@@ -23,6 +23,10 @@ nav ul li{
     font-weight: 500;
     cursor: pointer;
 }
+nav ul li a{
+    text-decoration: none;
+    color: #000;
+}
 nav .logo{
     width: 200px;
     cursor: pointer;
